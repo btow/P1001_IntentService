@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P1001_IntentService</string>
+    <string name="start_service">Start service</string>
+    <string name="time">time</string>
+    <string name="label">label</string>
+    <string name="call_1">Call 1</string>
+    <string name="call_2">Call 2</string>
+    <string name="call_3">Call 3</string>
+</resources>
